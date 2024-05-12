@@ -1,0 +1,4 @@
+4747e8
+012345 
+
+If not a digit then it returns a error message and return (1)
